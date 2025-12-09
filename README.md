@@ -32,4 +32,6 @@ version mobile-first
 ajout d’une navigation responsive
 optimisation des images
 
+Images credits https://www.pexels.com/fr-fr/
+
 
